@@ -1,0 +1,87 @@
+body {
+	padding: 0px;
+	margin: 0px;
+}
+
+#title {
+	font-size: 48px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	
+	padding-left: 250px;
+	padding-right: 250px;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	border: 0px;
+}
+
+#header {
+	 /*text styling*/
+	text-align: center;
+	background-color: black;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	
+	/*Padding, etc.*/
+	margin: 0px;
+	padding-left: 250px;
+	padding-right: 250px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.header-link {
+	color: white;
+	text-decoration: none;
+}
+
+.header-link:hover {
+	color: gray;
+}
+
+#body-article {
+	padding-left: 250px;
+	padding-right: 250px;
+	padding-top: 10px;
+	padding-bottom: 40px;
+	margin: 0 px;
+	border: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: white;
+}
+
+.article {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.article-footer {
+	text-align: center;
+	padding-top: 5px;
+	font-style: italic;
+}
+
+footer {
+	background-color: white;
+	background-clip: padding-box;
+	border-top: 1px solid darkgray;
+}
+
+#footerText {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	padding-left: 250px;
+	padding-right: 250px;
+	font-size: 10px;
+}
+
+.footer-link {
+	color: black;
+	text-decoration: none;
+}
+
+.footer-link:hover {
+	color: gray;
+}

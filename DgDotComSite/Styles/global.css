@@ -13,20 +13,29 @@ body {
 	padding-top: 20px;
 	padding-bottom: 0px;
 	border: 0px;
+	
 }
 
 #header {
 	 /*text styling*/
 	text-align: center;
-	background-color: black;
+	background-color: #202020;
 	color: white;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 20px;
 	
 	/*Padding, etc.*/
 	margin: 0px;
-	padding-left: 250px;
+	padding-left: 240px;
 	padding-right: 250px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#headerTitle {
+	text-align: left;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
 	padding-top: 5px;
 	padding-bottom: 5px;
 }
@@ -40,6 +49,20 @@ body {
 	color: gray;
 }
 
+#banner {
+	margin: 0px;
+	padding: 0px;
+	align-content: center;
+	background-color: #202020;
+}
+
+#bannerBar {
+	margin: 0px;
+	padding-top: 5px;
+	padding-bottom: 20px;
+	background-color: #202020;
+}
+
 #body-article {
 	padding-left: 250px;
 	padding-right: 250px;
@@ -50,6 +73,7 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 16px;
 	background-color: white;
+	
 }
 
 .article {

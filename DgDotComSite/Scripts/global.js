@@ -1,7 +1,7 @@
 /// <reference path="_references.js" />
 
 $(document).ready(function() {
-	var pageTitle = "Dane Grace dot com";	
+	var pageTitle = "Example dot com";	
 	populateNav();
 	populateTitle(pageTitle);
 	populateFooter();
@@ -11,7 +11,7 @@ var populateNav = function() {
 	var navSpacer = "\xa0 \xa0 \xa0 \xa0 \xa0";
 	var elem = $("#header");
 	
-	var navItem = "<a href='/default.html' class='header-link'>MAIN</a>";
+	var navItem = "<a href='/default.html' class='header-link'>DG</a>";
 	elem.append(navItem);
 	elem.append(navSpacer);
 	
@@ -32,7 +32,7 @@ var populateTitle = function(title) {
 }
 
 var populateFooter = function() {
-	var footerSpacer = "\xa0 \xa0 \xa0 \xa0";
+	var footerSpacer = "\xa0 | \xa0";
 	var elem = $("#footerText");
 	
 	var footerItem = "<a href='/contact.html' target='_blank' class='footer-link'>dg dot com</a>";

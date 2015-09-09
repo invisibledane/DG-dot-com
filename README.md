@@ -6,8 +6,12 @@ At present, it leverages:
 - CSS3
 - JQuery
 
-Later I plan to incorporate:
+TODO:
 - Bootstrap
 - Angluar JS
-- MongoDB
-- Node or possibly Rails
+- MySQL
+- Python Django
+
+SOMEDAY:
+- NoSQL DB
+- NODE version

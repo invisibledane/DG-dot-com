@@ -10,8 +10,8 @@ TODO:
 - Bootstrap
 - Angluar JS
 - MySQL
-- Python Django
+- Rails
 
-SOMEDAY:
+SOMEDAY (MAYBE):
 - NoSQL DB
 - NODE version

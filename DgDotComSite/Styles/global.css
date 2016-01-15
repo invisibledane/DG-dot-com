@@ -10,7 +10,7 @@ footer {
 	border-top: 1px solid darkgray;
 }
 
-/* Styles by class */
+/* Styles by ID */
 #title {
 	font-size: 48px;
 	font-family: Arial, Helvetica, sans-serif;
@@ -83,7 +83,7 @@ footer {
 	background-color: #202020;
 }
 
-/* Styles by ID */
+/* Styles by Class */
 .header-link {
 	color: white;
 	text-decoration: none;
